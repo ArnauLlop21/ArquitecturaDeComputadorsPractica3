@@ -1,0 +1,781 @@
+49652536-K@zoo:~$ bash ./scriptParalelitzat.sh
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+2 15000 Suma elements de A: 8391.55 B:-313.556
+2 15000 Temps callocs: 0.00013
+2 15000 Temps Inicialització: 0.24456
+2 15000 Temps Sumatoris: 1.36022
+2 15000 Temps Linealitat: 0.00031
+2 15000 Temps Comprovacio: 0.00029
+1.52user 0.08system 0:00.93elapsed 172%CPU (0avgtext+0avgdata 881444maxresident)k
+40inputs+0outputs (0major+1296minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+2 15000 Suma elements de A: 8391.55 B:-313.556
+2 15000 Temps callocs: 0.00022
+2 15000 Temps Inicialització: 0.85683
+2 15000 Temps Sumatoris: 1.94927
+2 15000 Temps Linealitat: 0.00091
+2 15000 Temps Comprovacio: 0.00008
+2.62user 0.18system 0:01.86elapsed 150%CPU (0avgtext+0avgdata 881416maxresident)k
+40inputs+0outputs (0major+1294minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+4 15000 Suma elements de A: 8391.55 B:-313.556
+4 15000 Temps callocs: 0.00014
+4 15000 Temps Inicialització: 0.24662
+4 15000 Temps Sumatoris: 1.37854
+4 15000 Temps Linealitat: 0.00062
+4 15000 Temps Comprovacio: 0.00006
+1.56user 0.06system 0:00.59elapsed 273%CPU (0avgtext+0avgdata 881440maxresident)k
+0inputs+0outputs (0major+1300minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+4 15000 Suma elements de A: 8391.55 B:-313.556
+4 15000 Temps callocs: 0.00044
+4 15000 Temps Inicialització: 0.87958
+4 15000 Temps Sumatoris: 1.99179
+4 15000 Temps Linealitat: 0.00116
+4 15000 Temps Comprovacio: 0.00011
+2.67user 0.19system 0:01.40elapsed 204%CPU (0avgtext+0avgdata 881352maxresident)k
+0inputs+0outputs (0major+1298minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+8 15000 Suma elements de A: 8391.55 B:-313.556
+8 15000 Temps callocs: 0.00013
+8 15000 Temps Inicialització: 0.25061
+8 15000 Temps Sumatoris: 1.40405
+8 15000 Temps Linealitat: 0.00119
+8 15000 Temps Comprovacio: 0.00004
+1.59user 0.06system 0:00.42elapsed 386%CPU (0avgtext+0avgdata 881404maxresident)k
+0inputs+0outputs (0major+1315minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+8 15000 Suma elements de A: 8391.55 B:-313.556
+8 15000 Temps callocs: 0.00045
+8 15000 Temps Inicialització: 0.88260
+8 15000 Temps Sumatoris: 2.18998
+8 15000 Temps Linealitat: 0.00216
+8 15000 Temps Comprovacio: 0.00007
+2.88user 0.19system 0:01.19elapsed 257%CPU (0avgtext+0avgdata 881460maxresident)k
+0inputs+0outputs (0major+1316minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+16 15000 Suma elements de A: 8391.55 B:-313.556
+16 15000 Temps callocs: 0.00014
+16 15000 Temps Inicialització: 0.24303
+16 15000 Temps Sumatoris: 1.45665
+16 15000 Temps Linealitat: 0.00193
+16 15000 Temps Comprovacio: 0.00004
+1.63user 0.06system 0:00.33elapsed 503%CPU (0avgtext+0avgdata 881456maxresident)k
+0inputs+0outputs (0major+1354minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+16 15000 Suma elements de A: 8391.55 B:-313.556
+16 15000 Temps callocs: 0.00043
+16 15000 Temps Inicialització: 0.88023
+16 15000 Temps Sumatoris: 2.55909
+16 15000 Temps Linealitat: 0.00308
+16 15000 Temps Comprovacio: 0.00007
+3.26user 0.18system 0:01.05elapsed 325%CPU (0avgtext+0avgdata 881360maxresident)k
+0inputs+0outputs (0major+1349minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+32 15000 Suma elements de A: 8391.55 B:-313.556
+32 15000 Temps callocs: 0.00013
+32 15000 Temps Inicialització: 0.24982
+32 15000 Temps Sumatoris: 1.61993
+32 15000 Temps Linealitat: 0.00332
+32 15000 Temps Comprovacio: 0.00008
+1.84user 0.03system 0:00.31elapsed 591%CPU (0avgtext+0avgdata 881692maxresident)k
+0inputs+0outputs (0major+1418minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+32 15000 Suma elements de A: 8391.55 B:-313.556
+32 15000 Temps callocs: 0.00043
+32 15000 Temps Inicialització: 0.87874
+32 15000 Temps Sumatoris: 2.88370
+32 15000 Temps Linealitat: 0.00510
+32 15000 Temps Comprovacio: 0.00007
+3.57user 0.19system 0:01.05elapsed 358%CPU (0avgtext+0avgdata 881620maxresident)k
+0inputs+0outputs (0major+907minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+64 15000 Suma elements de A: 8391.55 B:-313.556
+64 15000 Temps callocs: 0.00013
+64 15000 Temps Inicialització: 0.24284
+64 15000 Temps Sumatoris: 2.00339
+64 15000 Temps Linealitat: 0.00413
+64 15000 Temps Comprovacio: 0.00008
+2.17user 0.07system 0:00.28elapsed 790%CPU (0avgtext+0avgdata 881832maxresident)k
+0inputs+0outputs (0major+1546minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+64 15000 Suma elements de A: 8391.55 B:-313.556
+64 15000 Temps callocs: 0.00043
+64 15000 Temps Inicialització: 0.88133
+64 15000 Temps Sumatoris: 3.00390
+64 15000 Temps Linealitat: 0.00927
+64 15000 Temps Comprovacio: 0.00007
+3.69user 0.20system 0:01.02elapsed 381%CPU (0avgtext+0avgdata 881860maxresident)k
+0inputs+0outputs (0major+1552minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+128 15000 Suma elements de A: 8391.55 B:-313.556
+128 15000 Temps callocs: 0.00013
+128 15000 Temps Inicialització: 0.24325
+128 15000 Temps Sumatoris: 2.71799
+128 15000 Temps Linealitat: 0.00778
+128 15000 Temps Comprovacio: 0.00009
+2.87user 0.10system 0:00.28elapsed 1031%CPU (0avgtext+0avgdata 882476maxresident)k
+0inputs+0outputs (0major+1805minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+128 15000 Suma elements de A: 8391.55 B:-313.556
+128 15000 Temps callocs: 0.00043
+128 15000 Temps Inicialització: 0.89122
+128 15000 Temps Sumatoris: 3.05434
+128 15000 Temps Linealitat: 0.01066
+128 15000 Temps Comprovacio: 0.00006
+3.75user 0.21system 0:01.02elapsed 385%CPU (0avgtext+0avgdata 882212maxresident)k
+0inputs+0outputs (0major+1303minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 858.936 Mbytes
+256 15000 Suma elements de A: 8391.55 B:-313.556
+256 15000 Temps callocs: 0.00014
+256 15000 Temps Inicialització: 0.24566
+256 15000 Temps Sumatoris: 2.63023
+256 15000 Temps Linealitat: 0.01426
+256 15000 Temps Comprovacio: 0.00004
+2.78user 0.11system 0:00.30elapsed 954%CPU (0avgtext+0avgdata 887432maxresident)k
+0inputs+0outputs (0major+2330minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 858.936 Mbytes
+256 15000 Suma elements de A: 8391.55 B:-313.556
+256 15000 Temps callocs: 0.00044
+256 15000 Temps Inicialització: 0.88419
+256 15000 Temps Sumatoris: 3.21298
+256 15000 Temps Linealitat: 0.02997
+256 15000 Temps Comprovacio: 0.00010
+3.89user 0.23system 0:01.03elapsed 400%CPU (0avgtext+0avgdata 883324maxresident)k
+0inputs+0outputs (0major+2340minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+2 25000 Suma elements de A: 5394.04 B:106.289
+2 25000 Temps callocs: 0.00005
+2 25000 Temps Inicialització: 0.67881
+2 25000 Temps Sumatoris: 3.75717
+2 25000 Temps Linealitat: 0.00044
+2 25000 Temps Comprovacio: 0.00047
+4.27user 0.16system 0:02.56elapsed 173%CPU (0avgtext+0avgdata 2444312maxresident)k
+0inputs+0outputs (0major+2151minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+2 25000 Suma elements de A: 5394.04 B:106.289
+2 25000 Temps callocs: 0.00015
+2 25000 Temps Inicialització: 2.30369
+2 25000 Temps Sumatoris: 5.38033
+2 25000 Temps Linealitat: 0.00152
+2 25000 Temps Comprovacio: 0.00013
+7.18user 0.50system 0:05.03elapsed 152%CPU (0avgtext+0avgdata 2444424maxresident)k
+0inputs+0outputs (0major+2089minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+4 25000 Suma elements de A: 5394.04 B:106.289
+4 25000 Temps callocs: 0.00005
+4 25000 Temps Inicialització: 0.66667
+4 25000 Temps Sumatoris: 3.76915
+4 25000 Temps Linealitat: 0.00095
+4 25000 Temps Comprovacio: 0.00010
+4.23user 0.20system 0:01.61elapsed 274%CPU (0avgtext+0avgdata 2444412maxresident)k
+0inputs+0outputs (0major+2155minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+4 25000 Suma elements de A: 5394.04 B:106.289
+4 25000 Temps callocs: 0.00015
+4 25000 Temps Inicialització: 2.29594
+4 25000 Temps Sumatoris: 5.58672
+4 25000 Temps Linealitat: 0.00201
+4 25000 Temps Comprovacio: 0.00012
+7.28user 0.60system 0:03.75elapsed 210%CPU (0avgtext+0avgdata 2444344maxresident)k
+0inputs+0outputs (0major+2454minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+8 25000 Suma elements de A: 5394.04 B:106.289
+8 25000 Temps callocs: 0.00005
+8 25000 Temps Inicialització: 0.67628
+8 25000 Temps Sumatoris: 3.82355
+8 25000 Temps Linealitat: 0.00158
+8 25000 Temps Comprovacio: 0.00012
+4.30user 0.20system 0:01.16elapsed 386%CPU (0avgtext+0avgdata 2444412maxresident)k
+0inputs+0outputs (0major+2172minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+8 25000 Suma elements de A: 5394.04 B:106.289
+8 25000 Temps callocs: 0.00015
+8 25000 Temps Inicialització: 2.29716
+8 25000 Temps Sumatoris: 5.82501
+8 25000 Temps Linealitat: 0.00306
+8 25000 Temps Comprovacio: 0.00013
+7.59user 0.53system 0:03.04elapsed 267%CPU (0avgtext+0avgdata 2444472maxresident)k
+0inputs+0outputs (0major+2433minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+16 25000 Suma elements de A: 5394.04 B:106.289
+16 25000 Temps callocs: 0.00005
+16 25000 Temps Inicialització: 0.66903
+16 25000 Temps Sumatoris: 3.89671
+16 25000 Temps Linealitat: 0.00228
+16 25000 Temps Comprovacio: 0.00013
+4.37user 0.19system 0:00.92elapsed 493%CPU (0avgtext+0avgdata 2444412maxresident)k
+0inputs+0outputs (0major+2206minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+16 25000 Suma elements de A: 5394.04 B:106.289
+16 25000 Temps callocs: 0.00017
+16 25000 Temps Inicialització: 2.29672
+16 25000 Temps Sumatoris: 7.56027
+16 25000 Temps Linealitat: 0.00633
+16 25000 Temps Comprovacio: 0.00008
+9.35user 0.51system 0:02.79elapsed 352%CPU (0avgtext+0avgdata 2444352maxresident)k
+0inputs+0outputs (0major+2464minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+32 25000 Suma elements de A: 5394.04 B:106.289
+32 25000 Temps callocs: 0.00005
+32 25000 Temps Inicialització: 0.66653
+32 25000 Temps Sumatoris: 4.20060
+32 25000 Temps Linealitat: 0.00331
+32 25000 Temps Comprovacio: 0.00014
+4.70user 0.17system 0:00.81elapsed 596%CPU (0avgtext+0avgdata 2444668maxresident)k
+0inputs+0outputs (0major+2280minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+32 25000 Suma elements de A: 5394.04 B:106.289
+32 25000 Temps callocs: 0.00016
+32 25000 Temps Inicialització: 2.30577
+32 25000 Temps Sumatoris: 7.86425
+32 25000 Temps Linealitat: 0.00521
+32 25000 Temps Comprovacio: 0.00012
+9.53user 0.65system 0:02.63elapsed 386%CPU (0avgtext+0avgdata 2444404maxresident)k
+0inputs+0outputs (0major+2536minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+64 25000 Suma elements de A: 5394.04 B:106.289
+64 25000 Temps callocs: 0.00005
+64 25000 Temps Inicialització: 0.66653
+64 25000 Temps Sumatoris: 4.83203
+64 25000 Temps Linealitat: 0.00569
+64 25000 Temps Comprovacio: 0.00007
+5.31user 0.19system 0:00.76elapsed 723%CPU (0avgtext+0avgdata 2448080maxresident)k
+0inputs+0outputs (0major+2413minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+64 25000 Suma elements de A: 5394.04 B:106.289
+64 25000 Temps callocs: 0.00015
+64 25000 Temps Inicialització: 2.29994
+64 25000 Temps Sumatoris: 8.05081
+64 25000 Temps Linealitat: 0.00948
+64 25000 Temps Comprovacio: 0.00011
+9.79user 0.57system 0:02.62elapsed 395%CPU (0avgtext+0avgdata 2444876maxresident)k
+0inputs+0outputs (0major+2676minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+128 25000 Suma elements de A: 5394.04 B:106.289
+128 25000 Temps callocs: 0.00005
+128 25000 Temps Inicialització: 0.66541
+128 25000 Temps Sumatoris: 7.25158
+128 25000 Temps Linealitat: 0.00782
+128 25000 Temps Comprovacio: 0.00012
+7.69user 0.23system 0:00.75elapsed 1045%CPU (0avgtext+0avgdata 2445372maxresident)k
+0inputs+0outputs (0major+2192minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+128 25000 Suma elements de A: 5394.04 B:106.289
+128 25000 Temps callocs: 0.00016
+128 25000 Temps Inicialització: 2.28694
+128 25000 Temps Sumatoris: 8.33514
+128 25000 Temps Linealitat: 0.01283
+128 25000 Temps Comprovacio: 0.00012
+10.00user 0.63system 0:02.59elapsed 410%CPU (0avgtext+0avgdata 2445416maxresident)k
+0inputs+0outputs (0major+3014minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 2385.23 Mbytes
+256 25000 Suma elements de A: 5394.04 B:106.289
+256 25000 Temps callocs: 0.00005
+256 25000 Temps Inicialització: 0.66965
+256 25000 Temps Sumatoris: 7.66682
+256 25000 Temps Linealitat: 0.01487
+256 25000 Temps Comprovacio: 0.00013
+8.03user 0.32system 0:00.77elapsed 1075%CPU (0avgtext+0avgdata 2446472maxresident)k
+0inputs+0outputs (0major+3224minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 2385.23 Mbytes
+256 25000 Suma elements de A: 5394.04 B:106.289
+256 25000 Temps callocs: 0.00015
+256 25000 Temps Inicialització: 2.29664
+256 25000 Temps Sumatoris: 8.25678
+256 25000 Temps Linealitat: 0.03741
+256 25000 Temps Comprovacio: 0.00019
+9.99user 0.60system 0:02.64elapsed 401%CPU (0avgtext+0avgdata 2449296maxresident)k
+0inputs+0outputs (0major+3689minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+2 35000 Suma elements de A: 11300.8 B:-54.4594
+2 35000 Temps callocs: 0.00002
+2 35000 Temps Inicialització: 1.30256
+2 35000 Temps Sumatoris: 7.35058
+2 35000 Temps Linealitat: 0.00056
+2 35000 Temps Comprovacio: 0.00059
+8.28user 0.37system 0:04.98elapsed 173%CPU (0avgtext+0avgdata 4788588maxresident)k
+0inputs+0outputs (0major+3634minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+2 35000 Suma elements de A: 11300.8 B:-54.4594
+2 35000 Temps callocs: 0.00007
+2 35000 Temps Inicialització: 4.41967
+2 35000 Temps Sumatoris: 10.80428
+2 35000 Temps Linealitat: 0.00305
+2 35000 Temps Comprovacio: 0.00018
+13.89user 1.34system 0:10.03elapsed 151%CPU (0avgtext+0avgdata 4788604maxresident)k
+0inputs+0outputs (0major+5587minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+4 35000 Suma elements de A: 11300.8 B:-54.4594
+4 35000 Temps callocs: 0.00002
+4 35000 Temps Inicialització: 1.30455
+4 35000 Temps Sumatoris: 7.36283
+4 35000 Temps Linealitat: 0.00119
+4 35000 Temps Comprovacio: 0.00018
+8.27user 0.40system 0:03.15elapsed 274%CPU (0avgtext+0avgdata 4788608maxresident)k
+0inputs+0outputs (0major+3131minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+4 35000 Suma elements de A: 11300.8 B:-54.4594
+4 35000 Temps callocs: 0.00006
+4 35000 Temps Inicialització: 4.42603
+4 35000 Temps Sumatoris: 11.10351
+4 35000 Temps Linealitat: 0.00192
+4 35000 Temps Comprovacio: 0.00015
+14.09user 1.45system 0:07.45elapsed 208%CPU (0avgtext+0avgdata 4788724maxresident)k
+0inputs+0outputs (0major+4941minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+8 35000 Suma elements de A: 11300.8 B:-54.4594
+8 35000 Temps callocs: 0.00002
+8 35000 Temps Inicialització: 1.31638
+8 35000 Temps Sumatoris: 7.42044
+8 35000 Temps Linealitat: 0.00193
+8 35000 Temps Comprovacio: 0.00018
+8.41user 0.33system 0:02.26elapsed 386%CPU (0avgtext+0avgdata 4788668maxresident)k
+0inputs+0outputs (0major+3149minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+8 35000 Suma elements de A: 11300.8 B:-54.4594
+8 35000 Temps callocs: 0.00006
+8 35000 Temps Inicialització: 4.42302
+8 35000 Temps Sumatoris: 11.38072
+8 35000 Temps Linealitat: 0.00565
+8 35000 Temps Comprovacio: 0.00027
+14.56user 1.26system 0:05.94elapsed 266%CPU (0avgtext+0avgdata 4788716maxresident)k
+0inputs+0outputs (0major+5038minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+16 35000 Suma elements de A: 11300.8 B:-54.4594
+16 35000 Temps callocs: 0.00002
+16 35000 Temps Inicialització: 1.30399
+16 35000 Temps Sumatoris: 7.50923
+16 35000 Temps Linealitat: 0.00280
+16 35000 Temps Comprovacio: 0.00018
+8.47user 0.35system 0:01.79elapsed 492%CPU (0avgtext+0avgdata 4788660maxresident)k
+0inputs+0outputs (0major+3692minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+16 35000 Suma elements de A: 11300.8 B:-54.4594
+16 35000 Temps callocs: 0.00006
+16 35000 Temps Inicialització: 4.42554
+16 35000 Temps Sumatoris: 13.38821
+16 35000 Temps Linealitat: 0.00892
+16 35000 Temps Comprovacio: 0.00017
+16.78user 1.04system 0:05.36elapsed 332%CPU (0avgtext+0avgdata 4788740maxresident)k
+0inputs+0outputs (0major+4462minor)pagefaults 0swaps
+srun: job 13856 queued and waiting for resources
+srun: job 13856 has been allocated resources
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+32 35000 Suma elements de A: 11300.8 B:-54.4594
+32 35000 Temps callocs: 0.00002
+32 35000 Temps Inicialització: 1.30475
+32 35000 Temps Sumatoris: 8.02191
+32 35000 Temps Linealitat: 0.00400
+32 35000 Temps Comprovacio: 0.00018
+8.97user 0.36system 0:01.57elapsed 591%CPU (0avgtext+0avgdata 4788816maxresident)k
+0inputs+0outputs (0major+3766minor)pagefaults 0swaps
+srun: job 13858 queued and waiting for resources
+srun: job 13858 has been allocated resources
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+32 35000 Suma elements de A: 11300.8 B:-54.4594
+32 35000 Temps callocs: 0.00006
+32 35000 Temps Inicialització: 4.43069
+32 35000 Temps Sumatoris: 14.62934
+32 35000 Temps Linealitat: 0.00743
+32 35000 Temps Comprovacio: 0.00012
+17.91user 1.16system 0:05.11elapsed 373%CPU (0avgtext+0avgdata 4788872maxresident)k
+0inputs+0outputs (0major+4537minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+64 35000 Suma elements de A: 11300.8 B:-54.4594
+64 35000 Temps callocs: 0.00002
+64 35000 Temps Inicialització: 1.30483
+64 35000 Temps Sumatoris: 9.01433
+64 35000 Temps Linealitat: 0.00611
+64 35000 Temps Comprovacio: 0.00018
+9.98user 0.34system 0:01.47elapsed 699%CPU (0avgtext+0avgdata 4789144maxresident)k
+0inputs+0outputs (0major+3385minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+64 35000 Suma elements de A: 11300.8 B:-54.4594
+64 35000 Temps callocs: 0.00006
+64 35000 Temps Inicialització: 4.35333
+64 35000 Temps Sumatoris: 15.53756
+64 35000 Temps Linealitat: 0.01750
+64 35000 Temps Comprovacio: 0.00025
+18.64user 1.28system 0:04.95elapsed 402%CPU (0avgtext+0avgdata 4789040maxresident)k
+0inputs+0outputs (0major+5437minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+128 35000 Suma elements de A: 11300.8 B:-54.4594
+128 35000 Temps callocs: 0.00002
+128 35000 Temps Inicialització: 1.31622
+128 35000 Temps Sumatoris: 13.98014
+128 35000 Temps Linealitat: 0.00886
+128 35000 Temps Comprovacio: 0.00018
+14.88user 0.43system 0:01.48elapsed 1028%CPU (0avgtext+0avgdata 4789552maxresident)k
+0inputs+0outputs (0major+3657minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+128 35000 Suma elements de A: 11300.8 B:-54.4594
+128 35000 Temps callocs: 0.00006
+128 35000 Temps Inicialització: 4.31623
+128 35000 Temps Sumatoris: 15.50544
+128 35000 Temps Linealitat: 0.01618
+128 35000 Temps Comprovacio: 0.00017
+18.46user 1.39system 0:04.87elapsed 407%CPU (0avgtext+0avgdata 4789672maxresident)k
+0inputs+0outputs (0major+5770minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 4674.47 Mbytes
+256 35000 Suma elements de A: 11300.8 B:-54.4594
+256 35000 Temps callocs: 0.00002
+256 35000 Temps Inicialització: 1.30151
+256 35000 Temps Sumatoris: 14.68881
+256 35000 Temps Linealitat: 0.01484
+256 35000 Temps Comprovacio: 0.00018
+15.47user 0.54system 0:01.50elapsed 1063%CPU (0avgtext+0avgdata 4790704maxresident)k
+0inputs+0outputs (0major+4231minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 4674.47 Mbytes
+256 35000 Suma elements de A: 11300.8 B:-54.4594
+256 35000 Temps callocs: 0.00006
+256 35000 Temps Inicialització: 4.43276
+256 35000 Temps Sumatoris: 15.56977
+256 35000 Temps Linealitat: 0.02961
+256 35000 Temps Comprovacio: 0.00023
+18.71user 1.33system 0:05.07elapsed 395%CPU (0avgtext+0avgdata 4790596maxresident)k
+0inputs+0outputs (0major+6122minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+2 45000 Suma elements de A: 31600 B:-154.294
+2 45000 Temps callocs: 0.00002
+2 45000 Temps Inicialització: 2.15323
+2 45000 Temps Sumatoris: 12.13623
+2 45000 Temps Linealitat: 0.00138
+2 45000 Temps Comprovacio: 0.00019
+13.68user 0.61system 0:08.23elapsed 173%CPU (0avgtext+0avgdata 7914184maxresident)k
+0inputs+0outputs (0major+4714minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+2 45000 Suma elements de A: 31600 B:-154.294
+2 45000 Temps callocs: 0.00005
+2 45000 Temps Inicialització: 7.25704
+2 45000 Temps Sumatoris: 18.11683
+2 45000 Temps Linealitat: 0.00303
+2 45000 Temps Comprovacio: 0.00025
+22.94user 2.46system 0:16.70elapsed 152%CPU (0avgtext+0avgdata 7914016maxresident)k
+0inputs+0outputs (0major+9235minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+4 45000 Suma elements de A: 31600 B:-154.294
+4 45000 Temps callocs: 0.00002
+4 45000 Temps Inicialització: 2.15827
+4 45000 Temps Sumatoris: 12.15005
+4 45000 Temps Linealitat: 0.00154
+4 45000 Temps Comprovacio: 0.00023
+13.72user 0.59system 0:05.21elapsed 274%CPU (0avgtext+0avgdata 7914224maxresident)k
+0inputs+0outputs (0major+5228minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+4 45000 Suma elements de A: 31600 B:-154.294
+4 45000 Temps callocs: 0.00006
+4 45000 Temps Inicialització: 7.26526
+4 45000 Temps Sumatoris: 18.32253
+4 45000 Temps Linealitat: 0.00476
+4 45000 Temps Comprovacio: 0.00022
+23.21user 2.39system 0:12.05elapsed 212%CPU (0avgtext+0avgdata 7914220maxresident)k
+0inputs+0outputs (0major+8254minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+8 45000 Suma elements de A: 31600 B:-154.294
+8 45000 Temps callocs: 0.00002
+8 45000 Temps Inicialització: 2.16592
+8 45000 Temps Sumatoris: 12.22548
+8 45000 Temps Linealitat: 0.00215
+8 45000 Temps Comprovacio: 0.00026
+13.77user 0.63system 0:03.72elapsed 386%CPU (0avgtext+0avgdata 7914212maxresident)k
+0inputs+0outputs (0major+5247minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+8 45000 Suma elements de A: 31600 B:-154.294
+8 45000 Temps callocs: 0.00006
+8 45000 Temps Inicialització: 7.25748
+8 45000 Temps Sumatoris: 18.67058
+8 45000 Temps Linealitat: 0.00545
+8 45000 Temps Comprovacio: 0.00027
+24.02user 1.93system 0:09.84elapsed 263%CPU (0avgtext+0avgdata 7914080maxresident)k
+0inputs+0outputs (0major+8141minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+16 45000 Suma elements de A: 31600 B:-154.294
+16 45000 Temps callocs: 0.00002
+16 45000 Temps Inicialització: 2.14649
+16 45000 Temps Sumatoris: 12.40909
+16 45000 Temps Linealitat: 0.00310
+16 45000 Temps Comprovacio: 0.00024
+14.01user 0.55system 0:02.94elapsed 494%CPU (0avgtext+0avgdata 7914180maxresident)k
+0inputs+0outputs (0major+4768minor)pagefaults 0swaps
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+16 45000 Suma elements de A: 31600 B:-154.294
+16 45000 Temps callocs: 0.00006
+16 45000 Temps Inicialització: 7.26236
+16 45000 Temps Sumatoris: 22.00086
+16 45000 Temps Linealitat: 0.00617
+16 45000 Temps Comprovacio: 0.00015
+27.26user 2.02system 0:08.76elapsed 334%CPU (0avgtext+0avgdata 7914104maxresident)k
+0inputs+0outputs (0major+7961minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+32 45000 Suma elements de A: 31600 B:-154.294
+32 45000 Temps callocs: 0.00002
+32 45000 Temps Inicialització: 2.14734
+32 45000 Temps Sumatoris: 13.29875
+32 45000 Temps Linealitat: 0.00406
+32 45000 Temps Comprovacio: 0.00023
+14.84user 0.62system 0:02.60elapsed 593%CPU (0avgtext+0avgdata 7914416maxresident)k
+0inputs+0outputs (0major+5350minor)pagefaults 0swaps
+srun: job 13890 queued and waiting for resources
+srun: job 13890 has been allocated resources
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+32 45000 Suma elements de A: 31600 B:-154.294
+32 45000 Temps callocs: 0.00005
+32 45000 Temps Inicialització: 7.27208
+32 45000 Temps Sumatoris: 25.18471
+32 45000 Temps Linealitat: 0.00943
+32 45000 Temps Comprovacio: 0.00015
+30.33user 2.15system 0:08.16elapsed 398%CPU (0avgtext+0avgdata 7914232maxresident)k
+0inputs+0outputs (0major+7521minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+64 45000 Suma elements de A: 31600 B:-154.294
+64 45000 Temps callocs: 0.00002
+64 45000 Temps Inicialització: 2.14953
+64 45000 Temps Sumatoris: 14.69953
+64 45000 Temps Linealitat: 0.00560
+64 45000 Temps Comprovacio: 0.00023
+16.27user 0.59system 0:02.40elapsed 700%CPU (0avgtext+0avgdata 7914588maxresident)k
+0inputs+0outputs (0major+4983minor)pagefaults 0swaps
+srun: job 13894 queued and waiting for resources
+srun: job 13894 has been allocated resources
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+64 45000 Suma elements de A: 31600 B:-154.294
+64 45000 Temps callocs: 0.00004
+64 45000 Temps Inicialització: 7.19353
+64 45000 Temps Sumatoris: 25.62590
+64 45000 Temps Linealitat: 0.01712
+64 45000 Temps Comprovacio: 0.00032
+30.45user 2.41system 0:08.12elapsed 404%CPU (0avgtext+0avgdata 7914636maxresident)k
+0inputs+0outputs (0major+8695minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+128 45000 Suma elements de A: 31600 B:-154.294
+128 45000 Temps callocs: 0.00002
+128 45000 Temps Inicialització: 2.16203
+128 45000 Temps Sumatoris: 22.16989
+128 45000 Temps Linealitat: 0.00933
+128 45000 Temps Comprovacio: 0.00013
+23.70user 0.64system 0:02.43elapsed 999%CPU (0avgtext+0avgdata 7915108maxresident)k
+0inputs+0outputs (0major+5759minor)pagefaults 0swaps
+srun: job 13898 queued and waiting for resources
+srun: job 13898 has been allocated resources
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+128 45000 Suma elements de A: 31600 B:-154.294
+128 45000 Temps callocs: 0.00006
+128 45000 Temps Inicialització: 7.19361
+128 45000 Temps Sumatoris: 25.56798
+128 45000 Temps Linealitat: 0.02115
+128 45000 Temps Comprovacio: 0.00023
+30.18user 2.62system 0:08.15elapsed 402%CPU (0avgtext+0avgdata 7917352maxresident)k
+0inputs+0outputs (0major+8976minor)pagefaults 0swaps
+
+
+Codi executat en la maquina orca
+Dimensio dades =~ 7726.65 Mbytes
+256 45000 Suma elements de A: 31600 B:-154.294
+256 45000 Temps callocs: 0.00002
+256 45000 Temps Inicialització: 2.14871
+256 45000 Temps Sumatoris: 24.93839
+256 45000 Temps Linealitat: 0.01627
+256 45000 Temps Comprovacio: 0.00023
+26.34user 0.77system 0:02.43elapsed 1115%CPU (0avgtext+0avgdata 7919284maxresident)k
+0inputs+0outputs (0major+6293minor)pagefaults 0swaps
+srun: job 13902 queued and waiting for resources
+srun: job 13902 has been allocated resources
+
+
+Codi executat en la maquina teen
+Dimensio dades =~ 7726.65 Mbytes
+256 45000 Suma elements de A: 31600 B:-154.294
+256 45000 Temps callocs: 0.00007
+256 45000 Temps Inicialització: 7.18975
+256 45000 Temps Sumatoris: 25.66263
+256 45000 Temps Linealitat: 0.04076
+256 45000 Temps Comprovacio: 0.00035
+29.80user 3.11system 0:08.14elapsed 404%CPU (0avgtext+0avgdata 7918544maxresident)k
+0inputs+0outputs (0major+9681minor)pagefaults 0swaps
